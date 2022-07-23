@@ -1,17 +1,15 @@
 
 # Grid com animações
 
-Neste desafio eu criei um layout usando as seguintes tecnicas:
-
+In this challenge i created a layout using this techniques 
 
 - Mobile first
 - Grid
-- Animações
+- Animation
 
-## Aprendizados
+## what I've learned
 
-Neste desafio eu aprendi a criar um layout usando responsividade, diplay grid, animações etc...
-
+In this  challenge i learned how to create a responsive layout using the css grid, and how to create animations using the css. 
 
 ## 🔗 Links
 
